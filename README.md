@@ -25,6 +25,12 @@ Ampere's experimental law is stated as follows:
 
 The case is stated thusly: Let there be two closed currents whose strengths are $a$ and $a_1$ let $\alpha\prime$, $\alpha_1$ be elements of these, $\alpha$ being the vector connecting their midpoints. Then the effect of $\alpha\prime$ on $\alpha_1$ must, when resolved along $\alpha_1$, be a complete differential with respect to $\alpha$ comprised as three independent variables as the total resolved effect of the closed circuit of which $\alpha\prime$ is an element is zero by (3).
 
+The formalism surrounding Quaternions is best espoused by Tait (1890). In elaborating the case, the introduction of tensor $T$, scalar $S$ and unit-tensor $U$ is:
+
+* tensor
+* scalar
+* unit tensor
+
 Words.
 
 ### Publisher
