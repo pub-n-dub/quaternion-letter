@@ -14,12 +14,12 @@ Physics is content with understanding of concepts introduced by its earliest pra
 
 Ampere's experimental law is stated as follows:
 
-* Equal and opposite currents in the same conductor produce equal and opposite effects upon other conductors.
-* The effect of a conductor bent or twisted in any manner is equivalent to that of a straight one, provided that the two are traversed by equal currents and the former nearly coincides with the latter.
-* No closed circuit can set into motion an element of a circular conductor about an axis through the center of the circle and perpendicular to its plane.
-* In similar systems traversed by equal currents the forces between them are equal.
-* The action between two elements of currents is a straight line intersecting them.
-* It is taken for granted that the effect of any element of a current upon another is directly the product of the strengths of the currents and of the lengths of the elements.
+1. Equal and opposite currents in the same conductor produce equal and opposite effects upon other conductors.
+2. The effect of a conductor bent or twisted in any manner is equivalent to that of a straight one, provided that the two are traversed by equal currents and the former nearly coincides with the latter.
+3. No closed circuit can set into motion an element of a circular conductor about an axis through the center of the circle and perpendicular to its plane.
+4. In similar systems traversed by equal currents the forces between them are equal.
+5. The action between two elements of currents is a straight line intersecting them.
+6. It is taken for granted that the effect of any element of a current upon another is directly the product of the strengths of the currents and of the lengths of the elements.
 
 ### Mathematical Proposition
 
