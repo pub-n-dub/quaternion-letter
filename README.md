@@ -23,7 +23,9 @@ Ampere's experimental law is stated as follows:
 
 ### Mathematical Proposition
 
-Let there be two closed currents whose strengths are $a$ and $a_1$ let $\alpha\prime$, $\alpha_1$ be elements of these, $\alpha$ being the vector connecting their midpoints. 
+The case is stated thusly: Let there be two closed currents whose strengths are $a$ and $a_1$ let $\alpha\prime$, $\alpha_1$ be elements of these, $\alpha$ being the vector connecting their midpoints. Then the effect of $\alpha\prime$ on $\alpha_1$ must, when resolved along $\alpha_1$, be a complete differential with respect to $\alpha$ comprised as three independent variables as the total resolved effect of the closed circuit of which $\alpha\prime$ is an element is zero by (3).
+
+Words.
 
 ### Publisher
 
