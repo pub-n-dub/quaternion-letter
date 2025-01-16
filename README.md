@@ -23,7 +23,7 @@ Ampere's experimental law is stated as follows:
 
 ### Mathematical Proposition
 
-Let there be two closed currents whose strengths are $a$ and $a_1$ let $\alpha\prime$, $\alpha_1$ be elements of these, $\alpha$ being the vector connecting at their midpoints. 
+Let there be two closed currents whose strengths are $a$ and $a_1$ let $\alpha\prime$, $\alpha_1$ be elements of these, $\alpha$ being the vector connecting their midpoints. 
 
 ### Publisher
 
