@@ -2,6 +2,10 @@
 
 A paper, in the form of a letter, to examine Ampere in Quaternion form.
 
+## Sequence
+
+Annus mirabilis - Paper #1.
+
 ### Title
 
 Ampere's Parallel Circuital Currents in Quaternion Notation
