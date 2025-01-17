@@ -1,0 +1,106 @@
+\documentclass[]{article}
+\usepackage{todonotes}
+\usepackage{xcolor}
+\usepackage[colorlinks, citecolor=DeepPink4, linkcolor=DarkRed]{hyperref}
+\usepackage{amsfonts, amssymb}
+\usepackage{graphicx}
+\usepackage{tikz}
+
+\begin{document}
+
+\title{A quaternion-indicative solution for null points illustrating negative low-energy states for the electron}
+
+\author{Christopher A. Tucker\\cartheur@pm.me\\}
+
+\date{Submitted: 23 January 2025}
+
+\maketitle
+
+\abstract{This letter proposes a mathematical hypothesis for null points in an electrical circuital arrangement under the influence of magnetic field induction. The formalism is used a means to describe uniquely coupled fields that manifest a planar waves perpendicular to the angle of propagation. The quaternion method for computing the longitudinal wave is supported by the differential method. The solution indicates the circuital arrangement satisfies Dirac’s contention of negative-energy electron states where charges are posited at their lowest energy at minimal velocity.}
+
+% The introduction.
+
+\section{\label{sec:level1}The Circuital Model}
+
+Consider the circuital configuration shown in Fig.1 of the case of two solenoids: The first consists of a sinusoidal winding at a given angle between successive turns along its length; the second consists of a single strand of wire affixed in such a manner as to have regular divisions cross along the length. The first coil, the primary, has leads on each end while the second coil, the secondary, has both leads toward one end while at its extremity, loops back.
+
+The approximation consists of a primary coil tightly wound with wire of a radius much smaller than its length such that the distance between turns is nearly zero and that the angle,   Connections to each end of the primary coil extend outward so they can be connected to external equipment and components. The secondary coil is wound with a wide spacing between turns: The first traversal along the length coincides with the center line of the structure; the second traversal loops back along the length crossing the same center line such that there are a series of crossed wires, as shown in Fig.1. Connections to the same end of the secondary coil extend outward from the coil where they can be connected to external equipment and components.
+
+A series of experiments are conducted to illustrate the contention of electromagnetic phenomena at the interface of the secondary coil as sinusoidal currents are applied to the primary, following the mathematical analysis. The experiment strives to answer the following questions: Due to Faraday, as the emission of energy from a primary-secondary sinusoidal coil is well-known, what is the case when the secondary has such a winding? When a continuous electromagnetic signal is applied to the primary, what is the character of the electromagnetic wave induced in the secondary? What kind of special character, if any, would the secondary exhibit patterns that have not been accounted for in Faraday’s research but that which might be still covered by Maxwell? Does the wave exhibit this character because of the influence upon electrons moving in contradictory motion at the crossing of the wire in the secondary? Can the mathematical framework of this special character be described by ordinary vector analysis or it is necessary to call upon other analytical tools from the period? Can the  analysis yield the contention that there are observable null points in this circuital configuration?
+
+
+\section{The Mathematical Model}
+In consideration of the circuital arrangement described in the previous section, the applied electromagnetic wave at the primary, via a signal generator in the range of 2 - 9MHz, is imagined to consist as a plane wave of the general form of the three-dimensional wave equation
+
+\begin{equation}
+\frac{{{\partial }^{2}}f}{\partial {{x}^{2}}}+\frac{{{\partial }^{2}}f}{\partial {{y}^{2}}}+\frac{{{\partial }^{2}}f}{\partial {{z}^{2}}}-\frac{1}{{{c}^{2}}}\frac{{{\partial }^{2}}f}{\partial {{t}^{2}}}=0.\label{eq:one}
+\end{equation}
+
+The wave equation can be derived from Maxwell’s equations in free space and in the absence of charges and currents, beginning with Faraday’s equation. The spatial frequency of the plane wave is given by
+
+\begin{equation}
+\begin{align}
+  & E\left( x,z \right)=\exp \left\{ i\frac{2\pi }{\lambda }\left( x\sin \theta +z\cos \theta  \right) \right\} \\ 
+ & =\exp \left\{ i2\pi \left( \frac{x}{\Lambda } \right) \right\},\end{align}\label{eq:two}
+\end{equation}
+where,
+\begin{equation}
+ \\\Lambda \approx \frac{\lambda }{\sin \theta }.\label{eq:three}
+\end{equation}
+
+As the wave induced in the secondary is similar in character to the one in the primary, there is a minimum of superpositioning where,
+
+\begin{equation}
+a\cos \left( {{k}_{1}}z-{{\omega }_{1}}t \right)\approx a\cos \left( {{k}_{2}}z-{{\omega }_{2}}t \right).\label{eq:four}
+\end{equation}
+
+Given the rather ordinary treatment, what can be said about the result of these waves interacting? Let’s examine the arrangement without the “scaffolding” Ampère introduced into the process. Given Tait [1] (§453-456) the equation of coaxial circular currents [2, 3] is
+
+\frac{i{i}'dsd{s}'}{{{r}^{2}}}\left( \sin \theta \sin {\theta }'\cos \omega +k\cos \theta \cos {\theta }' \right),\label{eq:five}
+
+
+If there is only one appendix, then the letter ``A'' should not
+appear. This is suppressed by using the star version of the appendix
+command (\verb+\appendix*+ in the place of \verb+\appendix+).
+
+\section{A little more on appendixes}
+
+Observe that this appendix was started by using
+\begin{verbatim}
+\section{A little more on appendixes}
+\end{verbatim}
+
+Note the equation number in an appendix:
+\begin{equation}
+E=mc^2.
+\end{equation}
+
+\subsection{\label{app:subsec}A subsection in an appendix}
+
+You can use a subsection or subsubsection in an appendix. Note the
+numbering: we are now in Appendix~\ref{app:subsec}.
+
+Note the equation numbers in this appendix, produced with the
+subequations environment:
+\begin{subequations}
+\begin{eqnarray}
+E&=&mc, \label{appa}
+\\
+E&=&mc^2, \label{appb}
+\\
+E&\agt& mc^3. \label{appc}
+\end{eqnarray}
+\end{subequations}
+They turn out to be Eqs.~(\ref{appa}), (\ref{appb}), and (\ref{appc}).
+
+% The \nocite command causes all entries in a bibliography to be printed out
+% whether or not they are actually referenced in the text. This is appropriate
+% for the sample file to show the different styles of references, but authors
+% most likely will not want to use it.
+\nocite{*}
+
+\bibliography{apssamp}% Produces the bibliography via BibTeX.
+
+\end{document}
+%
+% ****** End of file apssamp.tex ******
