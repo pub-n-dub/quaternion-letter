@@ -35,7 +35,7 @@ The formalism surrounding Quaternions is best espoused by Tait (1890). In elabor
 * scalar
 * unit tensor
 
-Words.
+Words to the effect.
 
 ### Publisher
 
